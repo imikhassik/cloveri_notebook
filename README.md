@@ -4,7 +4,7 @@ Django 4.1.7\
 python-dotenv 1.0.0
 
 
-**Forking tutorial**: https://docs.github.com/en/get-started/quickstart/contributing-to-projects
+**Полный текст инструкций на английском**: https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 
 **Кратко**:
 

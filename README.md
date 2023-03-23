@@ -1,1 +1,4 @@
-Test
+Requirements:
+
+Django 4.1.7\
+python-dotenv 1.0.0

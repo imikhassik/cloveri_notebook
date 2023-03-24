@@ -15,9 +15,9 @@ python-dotenv 1.0.0
 https://github.com/YOUR-USERNAME/cloveri_notebook
 
 У себя в терминале зайдите в директорию, куда хотите положить проект и пропишите со своим юзернеймом:
-
+`
 ~~$ git clone https://github.com/YOUR-USERNAME/cloveri_notebook~~
-
+`
 **Создание ветки**:\
 git branch BRANCH-NAME\
 git checkout BRANCH-NAME
